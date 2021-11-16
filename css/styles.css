@@ -53,16 +53,19 @@ p{
     margin: 5% 3% 5% 0;
 }
 /* Title Image */
-.title-image{
-    width: 60%;
-  
-}
 .dog-phone{
+    width: 60%;
+    margin-left: 30%;
+    transform: rotate(25deg);
     
+  
 }
 #features{
     background-color:#fff;
     color: black;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
 
 }
 .card{
