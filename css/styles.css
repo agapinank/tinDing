@@ -53,14 +53,14 @@ p{
     margin: 5% 3% 5% 0;
 }
 /* Title Image */
+@media(max-width:1028px){
 .dog-phone{
-    width: 60%;
-    margin-left: 30%;
+    position:static;
     transform: rotate(25deg);
-    
-  
+ }
 }
 #features{
+
     background-color:#fff;
     color: black;
     padding: 7% 15%;
